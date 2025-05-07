@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- This website is created by Deandre Brayboy -->
+<html lang="en">
+<head>
+	<title>Resume</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/stylesprint.css" media="screen and (min-width: 481px) and (max-width: 768px)">
+</head>
+
+<body>
+
+<div id="container">
+<!-- Use the header area for the header area for the website name or logo -->
+<div id="header">
+<header>
+	<h1>Resume</h1>
+	<img src="images/global.rtw.jpg" alt="global.rtw" height"200" width="250">
+</header>
+</div>
+
+<!-- Use the nav area to add hyperlinks to the other pages within the websiter -->
+<div id="nav">
+<nav>
+<ul>
+	<li><a href="index.html">Home</a></li> &nbsp; &#9733; &nbsp; 
+	<li><a href="resume.html">Resume</a></li> &nbsp; &#9733; &nbsp;
+	<li><a href="livinginthefuture.html">LivingInTheFuture</a></li> &nbsp; &#9733; &nbsp;
+	<li><a href="DeandreBrayboy.html">Deandre Brayboy</a></li> &nbsp; &#9733; &nbsp;
+	<li><a href="AboutMe.html">About Me</a></li> &nbsp; &#9733; 
+</ul>
+</div>
+</nav>
+
+
+<!-- Use the main area to add the main content of the webpage -->
+<main>
+	<h2>Resume</h2>
+	
+	<h3>Education</h3>
+	
+	<h4>Work Experience</h4>
+	
+	<h5>Training and Certification</h5>
+	
+	
+	
+
+
+
+
+
+
+</main>
+<!-- Use the footer area to add webpage footer content -->
+<footer>
+	<p>&copy; Copyright 2025. All rights reserved.</p>
+		<P><a href="mailto:deandre.brayboy1@student.fdtc.edu">deandre.brayboy1@student.fdtc.edu</a></p>
+
+
+
+</footer>
+</div>
+</body>
+</html>
+
